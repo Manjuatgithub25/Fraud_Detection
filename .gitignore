@@ -205,3 +205,10 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# MODULES
+Spark_data_ingestion.py
+main.py
+
+# Dataset
+Fraud.csv
